@@ -1,0 +1,10 @@
+<view class="container">
+  <image class="user_avatar" src="{{avatar}}"></image>
+  <text class="user_name">Hello{{", " + nickName}}</text>
+  <view class="moto_user" catchtap="getUserInfo">
+    <text class="moto">获取用户信息</text>
+  </view>
+  <view class="moto_container" catchtap="onTap">
+    <text class="moto">开启小程序之旅</text>
+  </view>
+</view>

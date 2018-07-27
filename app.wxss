@@ -1,0 +1,4 @@
+text {
+  font: 24rpx 'Microsoft Yahei';
+  color: #666;
+}
